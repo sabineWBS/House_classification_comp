@@ -1,3 +1,3 @@
 students = [
-"Aleksei","Ray","Thanos","Nida","Melissa","Test"
+"Haftom","Hans","Neringa","Rod","Taibur","Test"
 ]
